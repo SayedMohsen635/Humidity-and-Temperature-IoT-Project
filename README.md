@@ -25,6 +25,6 @@ The flow diagram illustrates that ESP32 takes data from DHT22 sensor as a client
 
 ### 4: Setup the Node-RED flow
 - Deploy the flow of the Node-Red platform and then see the results in the dashboard.
-- <img src="./nodered_flow.png" width=40% height=40%>
+<img src="./nodered_flow.png" width=40% height=40%>
 - Here is the dashboard of the project as shown below.
-- <img src="./dashboard.png" width=40% height=40%>
+<img src="./dashboard.png" width=40% height=40%>
